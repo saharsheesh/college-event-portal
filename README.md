@@ -9,10 +9,10 @@
 | Field | Detail |
 | --- | --- |
 | Name | Saharsh Indurkar |
-| Registration number | _to be added_ |
-| Programme / branch | _to be added_ |
-| Course code and slot | _to be added_ |
-| Faculty guide | _to be added_ |
+| Registration number | 24BCE2527 |
+| Programme / branch | B.Tech Computer Science and Engineering |
+| Course code and slot | BCSE301L, A2+TA2 |
+| Faculty guide | Saranya P |
 
 ## Features
 
