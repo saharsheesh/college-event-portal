@@ -13,7 +13,8 @@
 | Name | Saharsh Indurkar |
 | Registration number | 24BCE2527 |
 | Programme / branch | B.Tech Computer Science and Engineering |
-| Course code and slot | BCSE301L, A2+TA2 |
+| Course | BCSE355L – Cloud Architecture Design |
+| Slot | A2+TA2 |
 | Faculty guide | Saranya P |
 
 ## Features
