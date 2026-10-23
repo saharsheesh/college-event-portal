@@ -7,7 +7,7 @@ const KEYS = {
   CERTIFICATES: 'eventPortal_certificates',
   NOTIFICATIONS: 'eventPortal_notifications',
   CURRENT_USER: 'eventPortal_currentUser',
-  INITIALIZED: 'eventPortal_init_r15',
+  INITIALIZED: 'eventPortal_init_r16',
 };
 
 function initializeDB() {
