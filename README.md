@@ -2,6 +2,8 @@
 
 **EventHub** is a web portal where students discover and register for college events, organisers track attendance, and verifiable e-certificates are issued automatically.
 
+**Live demo: [college-event-portal-psi.vercel.app](https://college-event-portal-psi.vercel.app)** (log in with the demo accounts below; each visitor gets their own copy of the demo data, saved in their browser)
+
 ![EventHub home page](case-study/screenshots/01-home.png)
 
 ## Student details
@@ -37,7 +39,7 @@
 
 ## Getting started
 
-Requires Node.js 20 or later.
+To try it without installing anything, open the [live demo](https://college-event-portal-psi.vercel.app). To run it locally (requires Node.js 20 or later):
 
 ```bash
 npm install
